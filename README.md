@@ -1,11 +1,11 @@
-## 🎯 Goals
+## Goals
 
 - [ ] Solve 100+ LeetCode problems
 - [ ] Improve time and space complexity analysis
 - [ ] Practice different programming paradigms
 - [ ] Prepare for technical interviews
 
-## 📊 Progress Tracking
+## Progress Tracking
 
 | Topic          | Solved | Total |
 |----------------|--------|-------|
@@ -16,7 +16,7 @@
 | Hash Map       | 2      | TBD   |
 | Queue          | 2      | TBD   |
 
-## 🔧 Languages Used
+## Languages Used
 
 - TypeScript
 
@@ -35,7 +35,7 @@
 
 [//]: # (- Test cases)
 
-## 📚 Resources
+## Resources
 
 - [LeetCode](https://leetcode.com/)
 - [Algorithm Patterns](https://leetcode.com/explore/)
